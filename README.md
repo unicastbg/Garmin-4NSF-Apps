@@ -21,7 +21,6 @@ This project is part of ongoing experimentation with custom apps on the 4NSF pla
 
 * Displays your **current speed (km/h)**
 * Uses **GPS data from the device**
-* Lightweight and fast
 
 ---
 
